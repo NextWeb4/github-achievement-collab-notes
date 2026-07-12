@@ -18,4 +18,4 @@ The project keeps short, reusable notes for account-to-account collaboration pat
 - README structure for a tiny documentation repository.
 - A checklist for pull request creation and merge verification.
 - Notes about avoiding empty or misleading contribution activity.
-that
+that right
