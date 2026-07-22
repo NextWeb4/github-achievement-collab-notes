@@ -93,6 +93,10 @@ When GitHub behavior is described, link to current official documentation or pub
 
 The repository contains no executable network code. GitHub loads the README itself, and the status badges request images from `img.shields.io` when rendered. Do not place credentials or private collaboration evidence in documentation; use only information intended to be public.
 
+## Contact
+
+[Rays688888@Gmail.com](mailto:Rays688888@Gmail.com)
+
 ## License
 
 No license file was detected. Public visibility and fork availability do not by themselves grant permission to reuse the documentation beyond rights provided by the upstream project or applicable law.
